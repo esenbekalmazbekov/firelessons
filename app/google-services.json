@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "99401821186",
+    "firebase_url": "https://fsmapp-10e6f.firebaseio.com",
+    "project_id": "fsmapp-10e6f",
+    "storage_bucket": "fsmapp-10e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99401821186:android:cfb0dbd23453a5b3310b1b",
+        "android_client_info": {
+          "package_name": "com.company.fsmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99401821186-2qddb9sotglmmgresl5a6ael4ita63ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.fsmapp",
+            "certificate_hash": "0a60afb8d29c909651211843de1c65df3ff148d5"
+          }
+        },
+        {
+          "client_id": "99401821186-3acub1lirrr8g6vs6f3rq98gmhius98m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVmlSK6ktVxXC8X_GRrklEO2JcSqWpqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99401821186-3acub1lirrr8g6vs6f3rq98gmhius98m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
